@@ -1,6 +1,6 @@
 {
     "targetRepo" : "docker-prod",
-    "dockerRepository" : "docker-framework",
+    "dockerRepository" : "docker-framework-test",
     "tag" : "@",
     "targetTag" : "latest",
     "copy" : true
